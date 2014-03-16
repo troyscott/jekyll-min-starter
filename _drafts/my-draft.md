@@ -1,8 +1,7 @@
 ---
 layout: post
 title: My Draft
-type: post
-published: false
+excerpt: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
   
 ---
 

@@ -1,12 +1,11 @@
-name: My Blog
-author: Troy Scott
+name: "My Blog"
+author: "Name"
 url: http://domain.com
 
 markdown: rdiscount
-
 permalink: pretty
-
 exclude: [README.md]
+
 
 
 
